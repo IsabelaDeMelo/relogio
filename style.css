@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(85, 215, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    color: white;
+}
+
+footer {
+    color: white;
+}
+
+#caixa {
+    background-color: white;
+    padding: 25px;
+    width: 400px;
+    height: 270px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.253);
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 200px;
+    border-radius: 100px;
+}
